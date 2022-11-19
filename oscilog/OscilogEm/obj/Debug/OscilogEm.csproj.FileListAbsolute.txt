@@ -1,0 +1,8 @@
+\\VBOXSVR\share\oscilog\OscilogEm\bin\Debug\OscilogEm.exe.config
+\\VBOXSVR\share\oscilog\OscilogEm\obj\Debug\OscilogEm.Form1.resources
+\\VBOXSVR\share\oscilog\OscilogEm\obj\Debug\OscilogEm.Properties.Resources.resources
+\\VBOXSVR\share\oscilog\OscilogEm\obj\Debug\OscilogEm.csproj.GenerateResource.Cache
+\\VBOXSVR\share\oscilog\OscilogEm\bin\Debug\OscilogEm.exe
+\\VBOXSVR\share\oscilog\OscilogEm\bin\Debug\OscilogEm.pdb
+\\VBOXSVR\share\oscilog\OscilogEm\obj\Debug\OscilogEm.exe
+\\VBOXSVR\share\oscilog\OscilogEm\obj\Debug\OscilogEm.pdb
